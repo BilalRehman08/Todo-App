@@ -1,0 +1,32 @@
+
+.add, .edit_btn{
+    background-color: blue;
+    color: white;
+   height: 40px;
+   border: none;
+   font-size: 18pt;
+   margin-left: 20px;
+   margin-right: 20px;
+}
+
+
+.delete {
+    background-color:red;
+    color: white;
+   height: 40px;
+   border: none;
+   font-size: 18pt;
+}
+
+
+.inputfield{
+    height: 40px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 300px;
+    }
+
+
+
+    
